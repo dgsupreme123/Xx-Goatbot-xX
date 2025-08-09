@@ -6,8 +6,8 @@ https://www.facebook.com/kiyotaka.godwin
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-08-09T05:53:41.769Z",
-        "lastAccessed": "2025-08-09T05:53:41.770Z"
+        "creation": "2025-08-09T06:04:31.244Z",
+        "lastAccessed": "2025-08-09T06:04:31.244Z"
     },
     {
         "key": "sb",
@@ -15,8 +15,8 @@ https://www.facebook.com/kiyotaka.godwin
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-08-09T05:53:41.770Z",
-        "lastAccessed": "2025-08-09T05:53:41.770Z"
+        "creation": "2025-08-09T06:04:31.244Z",
+        "lastAccessed": "2025-08-09T06:04:31.244Z"
     },
     {
         "key": "ps_l",
@@ -24,8 +24,8 @@ https://www.facebook.com/kiyotaka.godwin
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-08-09T05:53:41.770Z",
-        "lastAccessed": "2025-08-09T05:53:41.770Z"
+        "creation": "2025-08-09T06:04:31.244Z",
+        "lastAccessed": "2025-08-09T06:04:31.244Z"
     },
     {
         "key": "ps_n",
@@ -33,26 +33,8 @@ https://www.facebook.com/kiyotaka.godwin
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-08-09T05:53:41.770Z",
-        "lastAccessed": "2025-08-09T05:53:41.770Z"
-    },
-    {
-        "key": "c_user",
-        "value": "61574912322125",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-08-09T05:53:41.770Z",
-        "lastAccessed": "2025-08-09T05:53:41.770Z"
-    },
-    {
-        "key": "xs",
-        "value": "14%3AkfQCwu4v97Ok8Q%3A2%3A1753939119%3A-1%3A-1",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-08-09T05:53:41.771Z",
-        "lastAccessed": "2025-08-09T05:53:41.771Z"
+        "creation": "2025-08-09T06:04:31.244Z",
+        "lastAccessed": "2025-08-09T06:04:31.244Z"
     },
     {
         "key": "pas",
@@ -60,8 +42,8 @@ https://www.facebook.com/kiyotaka.godwin
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-08-09T05:53:41.771Z",
-        "lastAccessed": "2025-08-09T05:53:41.771Z"
+        "creation": "2025-08-09T06:04:31.244Z",
+        "lastAccessed": "2025-08-09T06:04:31.244Z"
     },
     {
         "key": "vpd",
@@ -69,17 +51,8 @@ https://www.facebook.com/kiyotaka.godwin
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-08-09T05:53:41.771Z",
-        "lastAccessed": "2025-08-09T05:53:41.771Z"
-    },
-    {
-        "key": "fr",
-        "value": "0Viokvt7GtnU6jWiQ.AWcEzpLXZo-CtlW9EBrOYwqybQ9ulPSF5YMneLUOoH2_w80GAAA.Boivvg..AAA.0.0.BoiwCC.AWe52T6JRIaQ2A4T3Cgk0v4Qnjs",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-08-09T05:53:41.771Z",
-        "lastAccessed": "2025-08-09T05:53:41.771Z"
+        "creation": "2025-08-09T06:04:31.244Z",
+        "lastAccessed": "2025-08-09T06:04:31.244Z"
     },
     {
         "key": "wl_cbv",
@@ -87,19 +60,43 @@ https://www.facebook.com/kiyotaka.godwin
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-08-09T05:53:41.771Z",
-        "lastAccessed": "2025-08-09T05:53:41.771Z"
+        "creation": "2025-08-09T06:04:31.244Z",
+        "lastAccessed": "2025-08-09T06:04:31.244Z"
     },
     {
-        "key": "fbl_st",
-        "value": "101323113%3BT%3A29232334",
+        "key": "locale",
+        "value": "fr_FR",
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-08-09T05:53:41.771Z",
-        "lastAccessed": "2025-08-09T05:53:41.771Z"
+        "creation": "2025-08-09T06:04:31.244Z",
+        "lastAccessed": "2025-08-09T06:04:31.244Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "2.75",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-09T06:04:31.244Z",
+        "lastAccessed": "2025-08-09T06:04:31.244Z"
+    },
+    {
+        "key": "wd",
+        "value": "393x886",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-09T06:04:31.244Z",
+        "lastAccessed": "2025-08-09T06:04:31.244Z"
+    },
+    {
+        "key": "fr",
+        "value": "0Viokvt7GtnU6jWiQ.AWdW52SssrnIUXjvQrJ1LeKAb8EB2UNPoq22ahWIJPYgO4Pe_AA.Boivvg..AAA.0.0.BoluTu.AWdQzyCWandx2MRZtvWZGOmayzE",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-09T06:04:31.244Z",
+        "lastAccessed": "2025-08-09T06:04:31.244Z"
     }
 ]
-
-
-
